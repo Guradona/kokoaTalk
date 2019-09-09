@@ -7,13 +7,13 @@
 - [x] 1.4 Chat Screen
 - [x] 1.5 Friends Screen
 - [x] 1.6 Find Screen
-- [] 1.7 More Screen
-- [] 1.8 Settings Screen
-- [] 1.9 Chat Screen
+- [x] 1.7 More Screen
+- [x] 1.8 Settings Screen
+- [x] 1.9 Chat Screen
 
 ## CSS
-- [] 2.0 ResetCSS
-- [] 2.1 StatusBar
+- [x] 2.0 ResetCSS
+- [x] 2.1 StatusBar
 - [] 2.2 Header
 - [] 2.3 Navigation Bar part One
 - [] 2.4 Why Border Box
