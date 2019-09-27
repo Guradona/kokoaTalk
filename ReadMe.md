@@ -14,7 +14,7 @@
 ## CSS
 - [x] 2.0 ResetCSS
 - [x] 2.1 StatusBar
-- [] 2.2 Header
+- [x] 2.2 Header
 - [] 2.3 Navigation Bar part One
 - [] 2.4 Why Border Box
 - [] 2.5 Navigation Bar part Two
