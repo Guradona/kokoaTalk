@@ -3,6 +3,7 @@
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
+@import "friend.css";
 
 body {
           background-color: white;
@@ -17,4 +18,5 @@ a {
 
 * {
           box-sizing: border-box;
+          text-decoration: none;
 }

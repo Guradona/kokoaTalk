@@ -15,9 +15,9 @@
 - [x] 2.0 ResetCSS
 - [x] 2.1 StatusBar
 - [x] 2.2 Header
-- [] 2.3 Navigation Bar part One
-- [] 2.4 Why Border Box
-- [] 2.5 Navigation Bar part Two
+- [x] 2.3 Navigation Bar part One
+- [x] 2.4 Why Border Box
+- [x] 2.5 Navigation Bar part Two
 - [] 2.6 Friend Component part One
 - [] 2.7 Friend Component part Two
 - [] 2.8 Friends Screen
